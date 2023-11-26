@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitagoras1", "Pitagoras1\Pitagoras1.csproj", "{3E026DF4-F03A-4976-966F-237AE75118ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E026DF4-F03A-4976-966F-237AE75118ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E026DF4-F03A-4976-966F-237AE75118ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E026DF4-F03A-4976-966F-237AE75118ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E026DF4-F03A-4976-966F-237AE75118ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1B7AE4B-4AAE-4E5E-8037-678C4A544B82}
+	EndGlobalSection
+EndGlobal
